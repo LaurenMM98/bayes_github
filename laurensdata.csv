@@ -1,0 +1,178 @@
+sample,species,date_collected,date_processed,total,big,small,streamlet,location,expected_consumption,body_type
+1_1,nematode,"June 10, 2021","June 10, 2021",4,0,4,1,WI_habitat,edible,soft
+1_1,ostracod,"June 10, 2021","June 10, 2021",1,0,1,1,WI_habitat,non-edible,hard
+1_1,copepod,"June 10, 2021","June 10, 2021",1,0,1,1,WI_habitat,edible,hard
+1_4,nematode,"June 10, 2021","June 10, 2021",2,0,2,1,WI_habitat,edible,soft
+1_4,ostracod,6/10/2021,6/10/2021,2,1,1,1,WI_habitat,non-edible,hard
+1_4,Unknown 1,6/10/2021,6/10/2021,1,1,0,1,WI_habitat,edible,soft
+1_5,nematode,6/10/2021,6/10/2021,3,3,0,1,WI_habitat,edible,soft
+1_5,chironomid,6/10/2021,6/10/2021,4,4,0,1,WI_habitat,edible,soft
+1_5,ostracod,6/10/2021,6/10/2021,6,5,1,1,WI_habitat,non-edible,hard
+1_5,Unknown Oligo 1,6/10/2021,6/10/2021,1,1,0,1,WI_habitat,edible,soft
+1_5,tubificidae,6/10/2021,6/10/2021,2,2,0,1,WI_habitat,edible,soft
+1_5,copepod,6/10/2021,6/10/2021,1,0,1,1,WI_habitat,edible,hard
+2_2,nematode,6/10/2021,6/10/2021,1,1,0,1,WI_habitat,edible,soft
+2_2,ostracod,6/10/2021,6/10/2021,13,12,1,1,WI_habitat,non-edible,hard
+2_2,tubificidae,6/10/2021,6/10/2021,3,2,1,1,WI_habitat,edible,soft
+2_2,copepod,6/10/2021,6/10/2021,6,6,0,1,WI_habitat,edible,hard
+2_2,Unknown 2,6/10/2021,6/10/2021,1,1,0,1,WI_habitat,unknown,unknown
+2_2,Unknown 3,6/10/2021,6/10/2021,2,2,0,1,WI_habitat,unknown,unknown
+2_3,nematode,6/10/2021,6/10/2021,1,1,0,1,WI_habitat,edible,soft
+2_3,ostracod,6/10/2021,6/10/2021,5,5,0,1,WI_habitat,non-edible,hard
+2_3,tubificidae,6/10/2021,6/10/2021,1,1,0,1,WI_habitat,edible,soft
+2_3,amphipod,6/10/2021,6/10/2021,1,1,0,1,WI_habitat,edible,hard
+2_6,ostracod,6/10/2021,6/10/2021,2,1,1,1,WI_habitat,non-edible,hard
+3_1,chironomid,6/14/2021,6/14/2021,2,2,0,2,WI_habitat,edible,soft
+3_1,amphipod,6/14/2021,6/14/2021,3,3,0,2,WI_habitat,edible,hard
+3_1,rotifer,6/14/2021,6/14/2021,2,2,0,2,WI_habitat,edible,hard
+3_2,chironomid,6/14/2021,6/14/2021,1,1,0,2,WI_habitat,edible,soft
+3_2,nematode,6/14/2021,6/14/2021,7,2,5,2,WI_habitat,edible,soft
+3_2,amphipod,6/14/2021,6/14/2021,1,1,0,2,WI_habitat,edible,hard
+3_2,ostracod,6/14/2021,6/14/2021,1,1,0,2,WI_habitat,non-edible,hard
+3_2,tubificidae,6/14/2021,6/14/2021,4,4,0,2,WI_habitat,edible,soft
+3_2,fingernail_clam,6/14/2021,6/14/2021,1,1,0,2,WI_habitat,non-edible,hard
+3_3,nematode,6/14/2021,6/14/2021,7,1,6,2,WI_habitat,edible,soft
+3_3,ostracod,6/14/2021,6/14/2021,1,1,0,2,WI_habitat,non-edible,hard
+3_3,tubificidae,6/14/2021,6/14/2021,3,3,0,2,WI_habitat,edible,soft
+3_5,nematode,6/14/2021,6/15/2021,3,0,3,2,WI_habitat,edible,soft
+3_6,nematode,6/14/2021,6/15/2021,2,1,1,2,WI_habitat,edible,soft
+3_6,ostracod,6/14/2021,6/15/2021,4,3,1,2,WI_habitat,non-edible,hard
+3_6,Unknown Oligo 1,6/14/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+3_6,tubificidae,6/14/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+4_1,nematode,6/14/2021,6/15/2021,8,0,8,1,WI_habitat,edible,soft
+4_1,Unknown 4,6/14/2021,6/15/2021,1,0,1,1,WI_habitat,unknown,unknown
+4_2,nematode,6/14/2021,6/15/2021,1,1,0,1,WI_habitat,edible,soft
+4_3,nematode,6/14/2021,6/15/2021,2,2,0,1,WI_habitat,edible,soft
+4_4,nematode,6/14/2021,6/15/2021,1,1,0,1,WI_habitat,edible,soft
+4_4,chironomid,6/14/2021,6/15/2021,1,1,0,1,WI_habitat,edible,soft
+4_4,ostracod,6/14/2021,6/15/2021,1,0,1,1,WI_habitat,non-edible,hard
+4_5,copepod,6/14/2021,6/15/2021,1,0,1,1,WI_habitat,edible,hard
+4_6,nematode,6/14/2021,6/15/2021,2,0,2,1,WI_habitat,edible,soft
+4_6,chironomid,6/14/2021,6/15/2021,2,2,0,1,WI_habitat,edible,soft
+4_6,ostracod,6/14/2021,6/15/2021,5,2,3,1,WI_habitat,non-edible,hard
+4_6,chydorid,6/14/2021,6/15/2021,1,1,0,1,WI_habitat,edible,hard
+4_6,Unknown 5,6/14/2021,6/15/2021,3,0,3,1,WI_habitat,unknown,unknown
+4_6,Unknown 6,6/14/2021,6/15/2021,1,0,1,1,WI_habitat,unknown,unknown
+4_6,Unknown 7,6/14/2021,6/15/2021,1,0,1,1,WI_habitat,unknown,unknown
+5_1,ostracod,6/15/2021,6/15/2021,18,5,13,2,WI_habitat,non-edible,hard
+5_1,tubificidae,6/15/2021,6/15/2021,4,4,0,2,WI_habitat,edible,soft
+5_1,copepod,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,hard
+5_1,Unknown 8,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,unknown,unknown
+5_2,nematode,6/15/2021,6/15/2021,1,0,1,2,WI_habitat,edible,soft
+5_2,chironomid,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+5_2,ostracod,6/15/2021,6/15/2021,5,2,3,2,WI_habitat,non-edible,hard
+5_2,Unknown Oligo 1,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+5_2,tubificidae,6/15/2021,6/15/2021,3,3,0,2,WI_habitat,edible,soft
+5_2,protozoa,6/15/2021,6/15/2021,2,0,2,2,WI_habitat,edible,soft
+5_3,nematode,6/15/2021,6/15/2021,4,1,3,2,WI_habitat,edible,soft
+5_3,chironomid,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+5_3,ostracod,6/15/2021,6/15/2021,5,4,1,2,WI_habitat,non-edible,hard
+5_3,tubificidae,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+5_3,fingernail_clam,6/15/2021,6/15/2021,1,0,1,2,WI_habitat,non-edible,hard
+5_3,chironomid_2,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+5_4,nematode,6/15/2021,6/15/2021,4,1,3,2,WI_habitat,edible,soft
+5_4,ostracod,6/15/2021,6/15/2021,11,0,11,2,WI_habitat,non-edible,hard
+5_4,chironomid_2,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+5_4,AM_black,6/15/2021,6/15/2021,1,0,1,2,WI_habitat,edible,hard
+5_5,nematode,6/15/2021,6/15/2021,2,1,1,2,WI_habitat,edible,soft
+5_5,ostracod,6/15/2021,6/15/2021,8,1,7,2,WI_habitat,non-edible,hard
+5_5,copepod,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,hard
+5_5,AM_red,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,hard
+5_6,nematode,6/15/2021,6/15/2021,2,0,2,2,WI_habitat,edible,soft
+5_6,ostracod,6/15/2021,6/15/2021,5,0,5,2,WI_habitat,non-edible,hard
+5_7,nematode,6/15/2021,6/15/2021,4,1,3,2,WI_habitat,edible,soft
+5_7,ostracod,6/15/2021,6/15/2021,24,4,20,2,WI_habitat,non-edible,hard
+5_7,Unknown Oligo 1,6/15/2021,6/15/2021,1,1,0,2,WI_habitat,edible,soft
+5_7,protozoa,6/15/2021,6/15/2021,3,0,3,2,WI_habitat,edible,soft
+5_7,Unknown 9,6/15/2021,6/15/2021,1,0,1,2,WI_habitat,unknown,unknown
+6_1,nematode,6/15/2021,6/16/2021,5,2,3,1,WI_habitat,edible,soft
+6_1,ostracod,6/15/2021,6/16/2021,6,0,6,1,WI_habitat,non-edible,hard
+6_1,copepod,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,hard
+6_1,Unknown daphnid,6/15/2021,6/16/2021,2,0,2,1,WI_habitat,edible,hard
+6_1,Unknown 10,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,unknown,unknown
+6_1,Unknown Rotifer,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,hard
+6_2,nematode,6/15/2021,6/16/2021,10,0,10,1,WI_habitat,edible,soft
+6_2,ostracod,6/15/2021,6/16/2021,3,0,3,1,WI_habitat,non-edible,hard
+6_2,chydorid,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,hard
+6_2,copepod,6/15/2021,6/16/2021,2,0,2,1,WI_habitat,edible,hard
+6_2,colembola,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,soft
+6_3,nematode,6/15/2021,6/16/2021,3,0,3,1,WI_habitat,edible,soft
+6_3,ostracod,6/15/2021,6/16/2021,26,3,23,1,WI_habitat,non-edible,hard
+6_3,tubificidae,6/15/2021,6/16/2021,1,1,0,1,WI_habitat,edible,soft
+6_3,copepod,6/15/2021,6/16/2021,13,1,12,1,WI_habitat,edible,hard
+6_3,rotifer,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,hard
+6_3,protozoa,6/15/2021,6/16/2021,2,0,2,1,WI_habitat,edible,soft
+6_3,chironomid_2,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,soft
+6_3,Unknown 11,6/15/2021,6/16/2021,3,3,0,1,WI_habitat,unknown,unknown
+6_4,nematode,6/15/2021,6/16/2021,11,6,5,1,WI_habitat,edible,soft
+6_4,chironomid,6/15/2021,6/16/2021,1,1,0,1,WI_habitat,edible,soft
+6_4,ostracod,6/15/2021,6/16/2021,15,4,11,1,WI_habitat,non-edible,hard
+6_4,protozoa,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,soft
+6_4,Unknown 12,6/15/2021,6/16/2021,1,1,0,1,WI_habitat,unknown,unknown
+6_5,ostracod,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,non-edible,hard
+6_5,chydorid,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,hard
+6_5,tubificidae,6/15/2021,6/16/2021,2,2,0,1,WI_habitat,edible,soft
+6_5,copepod,6/15/2021,6/16/2021,3,0,3,1,WI_habitat,edible,hard
+6_5,protozoa,6/15/2021,6/16/2021,1,0,1,1,WI_habitat,edible,soft
+6_6,nematode,6/15/2021,6/16/2021,8,7,1,1,WI_habitat,edible,soft
+6_7,nematode,6/15/2021,6/16/2021,1,1,0,1,WI_habitat,edible,soft
+6_7,tubificidae,6/15/2021,6/16/2021,1,1,0,1,WI_habitat,edible,soft
+7_1,nematode,6/17/2021,6/17/2021,6,1,5,1,WI_habitat,edible,soft
+7_1,amphipod,6/17/2021,6/17/2021,13,0,13,1,WI_habitat,edible,hard
+7_1,copepod,6/17/2021,6/17/2021,2,0,2,1,WI_habitat,edible,hard
+7_1,rotifer,6/17/2021,6/17/2021,2,2,0,1,WI_habitat,edible,hard
+7_1,AM_clear,6/17/2021,6/17/2021,1,0,1,1,WI_habitat,edible,hard
+7_2,nematode,6/17/2021,6/17/2021,4,2,2,1,WI_habitat,edible,soft
+7_2,copepod,6/17/2021,6/17/2021,5,0,5,1,WI_habitat,edible,hard
+7_3,nematode,6/17/2021,6/17/2021,2,0,2,1,WI_habitat,edible,soft
+7_3,ostracod,6/17/2021,6/17/2021,6,0,6,1,WI_habitat,non-edible,hard
+7_3,chydorid,6/17/2021,6/17/2021,2,0,2,1,WI_habitat,edible,hard
+7_3,tubificidae,6/17/2021,6/17/2021,3,2,1,1,WI_habitat,edible,soft
+7_3,copepod,6/17/2021,6/17/2021,6,0,6,1,WI_habitat,edible,hard
+7_3,protozoa,6/17/2021,6/17/2021,2,0,2,1,WI_habitat,edible,soft
+7_5,chironomid,6/17/2021,6/18/2021,1,1,0,1,WI_habitat,edible,soft
+7_5,tubificidae,6/17/2021,6/18/2021,1,0,1,1,WI_habitat,edible,soft
+7_5,Unknown 13,6/17/2021,6/18/2021,1,0,1,1,WI_habitat,unknown,unknown
+7_5,Unknown 14,6/17/2021,6/18/2021,1,1,0,1,WI_habitat,unknown,unknown
+7_6,tubificidae,6/17/2021,6/18/2021,1,0,1,1,WI_habitat,edible,soft
+7_6,ostracod,6/17/2021,6/18/2021,1,0,1,1,WI_habitat,non-edible,hard
+7_6,copepod,6/17/2021,6/18/2021,1,0,1,1,WI_habitat,edible,hard
+7_6,daphnid,6/17/2021,6/18/2021,3,0,3,1,WI_habitat,edible,hard
+7_6,protozoa,6/17/2021,6/18/2021,1,0,1,1,WI_habitat,edible,soft
+7_7,tubificidae,6/17/2021,6/18/2021,1,0,1,1,WI_habitat,edible,soft
+7_7,nematode,6/17/2021,6/18/2021,2,1,1,1,WI_habitat,edible,soft
+7_7,ostracod,6/17/2021,6/18/2021,21,0,21,1,WI_habitat,non-edible,hard
+7_7,copepod,6/17/2021,6/18/2021,5,0,5,1,WI_habitat,edible,hard
+7_7,daphnid,6/17/2021,6/18/2021,10,1,9,1,WI_habitat,edible,hard
+7_7,protozoa,6/17/2021,6/18/2021,4,0,4,1,WI_habitat,edible,soft
+8_1,nematode,6/17/2021,6/17/2021,2,1,1,2,WI_habitat,edible,soft
+8_1,Unknown amphipod,6/17/2021,6/17/2021,1,1,0,2,WI_habitat,edible,hard
+8_1,ostracod,6/17/2021,6/17/2021,6,2,4,2,WI_habitat,non-edible,hard
+8_1,Unknown Oligo 1,6/17/2021,6/17/2021,1,1,0,2,WI_habitat,edible,soft
+8_1,tubificidae,6/17/2021,6/17/2021,2,2,0,2,WI_habitat,edible,soft
+8_2,nematode,6/17/2021,6/17/2021,1,1,0,2,WI_habitat,edible,soft
+8_2,ostracod,6/17/2021,6/17/2021,4,1,3,2,WI_habitat,non-edible,hard
+8_2,Unknown Oligo 1,6/17/2021,6/17/2021,10,10,0,2,WI_habitat,edible,soft
+8_2,tubificidae,6/17/2021,6/17/2021,1,1,0,2,WI_habitat,edible,soft
+8_2,protozoa,6/17/2021,6/17/2021,1,0,1,2,WI_habitat,edible,soft
+8_3,nematode,6/17/2021,6/17/2021,6,4,2,2,WI_habitat,edible,soft
+8_3,Unknown Oligo 1,6/17/2021,6/17/2021,5,5,0,2,WI_habitat,edible,soft
+8_3,tubificidae,6/17/2021,6/17/2021,14,14,0,2,WI_habitat,edible,soft
+8_3,ostracod,6/17/2021,6/17/2021,2,0,2,2,WI_habitat,non-edible,hard
+8_3,rotifer,6/17/2021,6/17/2021,1,1,0,2,WI_habitat,edible,hard
+8_4,nematode,6/17/2021,6/18/2021,3,1,2,2,WI_habitat,edible,soft
+8_4,ostracod,6/17/2021,6/18/2021,3,1,2,2,WI_habitat,non-edible,hard
+8_4,Unknown Oligo 1,6/17/2021,6/18/2021,3,3,0,2,WI_habitat,edible,soft
+8_5,nematode,6/17/2021,6/18/2021,6,4,2,2,WI_habitat,edible,soft
+8_5,amphipod,6/17/2021,6/18/2021,1,1,0,2,WI_habitat,edible,hard
+8_5,ostracod,6/17/2021,6/18/2021,3,0,3,2,WI_habitat,non-edible,hard
+8_5,Unknown Oligo 1,6/17/2021,6/18/2021,10,10,0,2,WI_habitat,edible,soft
+8_6,nematode,6/17/2021,6/18/2021,1,0,1,2,WI_habitat,edible,soft
+8_6,ostracod,6/17/2021,6/18/2021,3,0,3,2,WI_habitat,non-edible,hard
+8_6,Unknown Oligo 1,6/17/2021,6/18/2021,2,2,0,2,WI_habitat,edible,soft
+8_7,nematode,6/17/2021,6/18/2021,3,0,3,2,WI_habitat,edible,soft
+8_7,ostracod,6/17/2021,6/18/2021,6,0,6,2,WI_habitat,non-edible,hard
+8_7,Unknown Oligo 1,6/17/2021,6/18/2021,2,2,0,2,WI_habitat,edible,soft
+8_7,copepod,6/17/2021,6/18/2021,1,0,1,2,WI_habitat,edible,hard
+8_7,Unknown 15,6/17/2021,6/18/2021,1,0,1,2,WI_habitat,unknown,unknown
+8_7,Unknown 16,6/17/2021,6/18/2021,1,1,0,2,WI_habitat,unknown,unknown
